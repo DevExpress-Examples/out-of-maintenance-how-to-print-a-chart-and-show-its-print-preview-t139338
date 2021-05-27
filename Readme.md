@@ -6,15 +6,10 @@
 <!-- default file list end -->
 # How to print a chart and show Its print preview
 
+This example demonstrates how to print a [Chart Control](https://docs.devexpress.com/WPF/117736/controls-and-libraries/charts-suite/chart-control), or show its Print Preview.
 
-This example demonstrates how to print a <a href="https://help.devexpress.com/#WPF/CustomDocument6192">Chart Control</a>, or show its Print Preview.
+### Description
 
+To do this, you should use either the [ChartControl.Print](https://docs.devexpress.com/WPF/DevExpress.Xpf.Charts.ChartControlBase.Print.overloads) or [ChartControl.ShowPrintPreview](https://docs.devexpress.com/WPF/DevExpress.Xpf.Charts.ChartControlBase.ShowPrintPreview.overloads) methods.
 
-<h3>Description</h3>
-
-To do this, you should use either the&nbsp;<a href="https://documentation.devexpress.com/#WPF/DevExpressXpfChartsChartControl_Printtopic">ChartControl.Print</a>&nbsp; or <a href="https://documentation.devexpress.com/#WPF/DevExpressXpfChartsChartControl_ShowPrintPreviewtopic">ChartControl.ShowPrintPreview</a>&nbsp; methods.<br />
-<p>The Print Preview displays the chart as it will appear when printed. Note that the chart can be previewed and printed only if the <a href="http://larix/ReferenceBrowserMain_14_1/LoadItem.aspx?Member=D%3a6570&amp;Template=CustomDocumentTopic">DXPrinting Library</a> is available.</p>
-
-<br/>
-
-
+The Print Preview displays the chart as it will appear when printed. Note that the chart can be previewed and printed only if the [DXPrinting Library](https://docs.devexpress.com/WPF/7411/common-concepts/printing-and-exporting/printing-overview) is available.
