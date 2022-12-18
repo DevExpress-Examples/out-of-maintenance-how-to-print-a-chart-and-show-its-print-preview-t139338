@@ -1,4 +1,4 @@
-﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 16
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PrintChart", "PrintChart.Net5.vbproj", "{044489FB-6AF9-4930-A683-DA843202A6B8}"
 EndProject
